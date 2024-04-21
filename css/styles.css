@@ -1,0 +1,40 @@
+
+body {
+background-color: #e3e3e3;
+}
+
+
+h1 {
+color: #1B98D7;
+font-size: 40px;
+text-align: center;
+border: 3px solid;
+border-color:#1B98D7;
+border-radius: 10px;
+}
+
+p {
+padding: 10px 10px 0px 10px;
+margin: 10px 10px 10px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+float: right;
+padding: 5px 15px 5px 5px
+}
+
+ul {
+Font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+Font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+text-decoration: underline;
+text-align: bottom;
+padding-top: 50px; 
+}
+

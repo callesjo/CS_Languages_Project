@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>Different Programming Languages</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<h1>Different Programming Languages</h1>
+<h2>Introduction</h2> <img src="img/programming-languages.jpeg" alt="image of programming languages" width="400" height="250">
+<p> Programming languages are used to control, and give instructions to machines and computers. Like different human languages, different programming languages have different rules and structures. There are hundreds of different programming languages, with different structures, features, styles, and purposes, making them good at solving different problems and performing different tasks.</p>
+
+<ul>
+This website is meant to give basic information about the five different programming languages linked below:
+<li><a href="PHP.html">PHP</a></li>
+<li><a href="Ruby.html">Ruby</a></li>
+<li><a href="rust.html">Rust</a></li>
+<li><a href="c-sharp.html">C#</a></li>
+<li><a href="LISP.html">LISP</a></li>
+</u>
+<hr>
+
+</body>
+</html>
